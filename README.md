@@ -2,6 +2,7 @@
 
 Hereby I present a case for urban tree analysis for my homecity applying geospatial analysis on information retrieved from geographical web services.
 
+## References
 Bogota Botanical Garden "José Celestino Mutis", (2025). Bogota Urban Trees. Retrieved from:  [https://geoportal.jbb.gov.co/agc/services/IDECA/CensoArbol/MapServer/WFSServer?request=GetCapabilities&service=WFS](https://geoportal.jbb.gov.co/agc/services/IDECA/CensoArbol/MapServer/WFSServer?request=GetCapabilities&service=WFS)
 
 Bogota Botanical Garden “José Celestino Mutis.” (2011). *Manual de Silvicultura Urbana de Bogotá*.
